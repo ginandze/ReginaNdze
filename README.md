@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReginaNdze
+- 👋 Hi, I’m @Ginandze
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Higher Level Proframming at Alx Africa
 - 💞️ I’m looking to collaborate on open source projects in Python
